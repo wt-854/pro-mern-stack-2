@@ -5,4 +5,4 @@ Instructuions on how to run website:
 
 Issues faced: 
   1. Unable to initialise Google OAuth because of React environment issue with 'api'; Cannot read/call variables from environment file but unable to figure out why
-  2. Unable to deploy on Heroku because of missing viriables from above error 
+  2. Unable to deploy on Heroku because of missing variables from above error 
